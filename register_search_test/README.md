@@ -40,7 +40,7 @@ Instale o pip, o gerenciador de pacotes do Python, se ainda não o tiver instala
  Clone o repositório para a sua máquina local:
 
 ```bash
-git clone https://github.com/CiCi0100/RobotFramework_Register_and_Search_AutomationTests.git
+git clone https://github.com/CiCi0100/RobotFramework_AutomationTests.git
 
 Navegue até o diretório do projeto:
  cd register_search_test
